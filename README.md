@@ -1,22 +1,5 @@
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/59163c56-55ac-4813-b4aa-b57082e708e6" align="middle" alt="Banner" width="100%"/>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/muhammad-fiaz/muhammad-fiaz/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/muhammad-fiaz/muhammad-fiaz/blob/output/github-contribution-grid-snake-light.svg" />
-    <img alt="github-snake" src="https://github.com/muhammad-fiaz/muhammad-fiaz/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-</div>
-<br>
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
-
-<div align="center">   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left"/>
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right" alt="flame"/>
-  <h2> 😎 Self-taught and passionate about coding! </h2><br>
-<br>
-</div>
-
 <img align="right" src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/d9e4b62b-5878-4d64-a362-bce0b027ed03" height="560px" alt="pixel city image">
 <p style="animation: fadein 2s; font-size: medium">
 Hey there! 👋 I'm a Full Stack developer who loves to create new things. I have uploaded some pretty cool stuff, so make sure to check it out on my GitHub profile✌️.<br><br>- ✨ I spend my spare time building and developing free Apps and Web Applications because I want to continue growing and honing my skills 😄.
