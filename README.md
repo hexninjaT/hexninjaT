@@ -2,14 +2,6 @@
 
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
-<img  src= "https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/68ba38fe-129a-4d85-be33-62eb4ba50c05"  width="100%" alt="marginline"/>
-
-<div align="center"> 
-<p style="font-size: medium"><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/muhammad-fiaz/count.svg" alt="profile vistor count"/><br><br>
-<a href="https://github.com/muhammad-fiaz" target="_blank">
-  <img src="https://img.shields.io/github/followers/muhammad-fiaz?label=Follow&style=social" alt="Follow me on GitHub" />
-</a>
 <br>
 <br>
 <a href="https://wakatime.com/@muhammadfiaz">
